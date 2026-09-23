@@ -1,0 +1,72 @@
+{
+  "Commonwealth Bank": {
+    "period": "核验于 2026-09-15",
+    "summary": "持续强化数字、数据、AI、工程与运营韧性；2026 Summer Intern 申请期为 8月12日至9月8日，现已截止，且该项目要求申请时为澳洲/新西兰公民或澳洲永久居民。当前身份应主攻普通职位，而非此轮项目。",
+    "sourceUrl": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html"
+  },
+  "NAB": {
+    "period": "核验于 2026-09-15",
+    "summary": "1H26材料显示Modern Data Platform、多云基础设施和agentic平台建设；官方职位页还显示Melbourne/Sydney的AI岗位信号。对本画像更现实的入口仍是BA、Transformation、Product Owner和测试/交付岗位。",
+    "sourceUrl": "https://www.nab.com.au/content/dam/nab/documents/reports/corporate/2026-half-year-results-investor-presentation.pdf"
+  },
+  "Westpac": {
+    "period": "核验于 2026-09-15",
+    "summary": "UNITE正在持续交付，官方专页明确列出Transformation、Engineering & App Development、Digital & Data和Testing；AI测试工具用于提高测试效率。与你的测试、项目协调和转型方向高度吻合。",
+    "sourceUrl": "https://www.westpac.com.au/about-westpac/careers/unite/"
+  },
+  "ANZ": {
+    "period": "核验于 2026-09-15",
+    "summary": "ANZ 2030下推进单一客户前端、ANZ Digital Platform、核心数据方案和端到端测试环境，并在CRM中使用agentic AI。转型机会明确，但组织简化也意味着应优先投与核心平台直接相关的岗位。",
+    "sourceUrl": "https://exclusives.anz.com.au/newsroom/media/2026/may/anz-ceo-nuno-matos-remarks--investor-briefing--anz-2026-half-yea/"
+  },
+  "Telstra": {
+    "period": "2026",
+    "summary": "官方职业与人才材料持续覆盖AI、自动化、软件、产品、技术咨询与网络安全。",
+    "sourceUrl": "https://www.telstra.com.au/careers"
+  },
+  "Fortescue": {
+    "period": "核验于 2026-09-15",
+    "summary": "官方人才社区仍可见，覆盖AI & Analytics、Cybersecurity、Data Engineering、Software Engineering与OT；地点以Perth及Pilbara现场为主。适合愿意迁往Perth的人，Melbourne-only策略应降权。",
+    "sourceUrl": "https://www.fortescue.com/en/jobs/eoi-talent-community-digital-data-ai-cyber-technology-opportunities-jobId_12370"
+  },
+  "Woodside Energy": {
+    "period": "2026",
+    "summary": "官方职业介绍明确 Digital 团队负责推动业务数字化，并连接运营、项目与技术。",
+    "sourceUrl": "https://www.woodside.com/careers/find-your-fit"
+  },
+  "AGL": {
+    "period": "FY2025",
+    "summary": "公开材料披露零售转型、数字客户、AI自动化与 Salesforce 平台实施。",
+    "sourceUrl": "https://www.agl.com.au/content/dam/digital/agl/documents/about-agl/news-centre/2025/250813-agl-results-for-announcement-to-the-market.pdf"
+  },
+  "Digital Transformation Agency": {
+    "period": "核验于 2026-09-15",
+    "summary": "最新2026–27计划聚焦负责任AI、数字架构、ICT投资治理、采购与APS Digital Profession；但DTA Graduate Program明确要求澳洲公民并主要在Canberra，因此当前身份不应把它作为核心投递。",
+    "sourceUrl": "https://www.dta.gov.au/corporate-plan-2026-27"
+  },
+  "Services Australia": {
+    "period": "2025–26",
+    "summary": "公开10年数字投资规划，并持续负责 myGov 等国家级数字服务生态。",
+    "sourceUrl": "https://www.servicesaustralia.gov.au/sites/default/files/2025-08/12637-2507-corporate-plan-25-26.pdf"
+  },
+  "BYD Australia": {
+    "period": "核验于 2026-09-15",
+    "summary": "官方海外招聘页面今天仍显示BYD Australia在Sydney/Melbourne的Energy Storage渠道岗位，包括Channel Management Specialist与Channel Sales Manager。它是当前新能源赛道中最值得立即核实的目标之一。",
+    "sourceUrl": "https://careers-overseas.byd.com/"
+  },
+  "Tesla Australia": {
+    "period": "2026",
+    "summary": "官方职业页面持续覆盖车辆、能源、运营、充电、储能及AI相关团队。",
+    "sourceUrl": "https://www.tesla.com/en_AU/careers"
+  },
+  "Rio Tinto": {
+    "period": "2026",
+    "summary": "官方职业体系明确覆盖数据科学、数字与内部咨询等职业方向。",
+    "sourceUrl": "https://www.riotinto.com/careers"
+  },
+  "Australian Digital Health Agency": {
+    "period": "2025–26",
+    "summary": "国家数字健康基础设施、互操作与数据治理仍是核心公共数字能力。",
+    "sourceUrl": "https://www.digitalhealth.gov.au/about-us/careers"
+  }
+}

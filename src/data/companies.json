@@ -1,0 +1,1929 @@
+[
+  {
+    "id": "commonwealth-bank",
+    "name": "Commonwealth Bank",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "industry": "银行金融",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Technology Analyst",
+      "Data & AI Analyst"
+    ],
+    "fitReason": "大规模数字产品与技术生态，商业+IT复合背景可连接客户、数据与交付",
+    "focusAreas": [
+      "AI",
+      "数据",
+      "云",
+      "工程",
+      "客户体验与运营韧性"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.commbank.com.au/about-us/careers.html"
+  },
+  {
+    "id": "nab",
+    "name": "NAB",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "银行金融",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Transformation Analyst",
+      "Test Analyst",
+      "Product Owner"
+    ],
+    "fitReason": "Melbourne 总部优势；现代化项目需要流程、质量与交付能力",
+    "focusAreas": [
+      "技术现代化",
+      "流程简化",
+      "数字体验",
+      "GenAI/agentic AI"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.nab.com.au/about-us/careers"
+  },
+  {
+    "id": "anz",
+    "name": "ANZ",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "银行金融",
+    "recommendedRoles": [
+      "Journey Expert",
+      "Business Analyst",
+      "Delivery Analyst",
+      "Technology Risk Analyst"
+    ],
+    "fitReason": "Melbourne 强匹配；适合业务、产品、风险和技术之间的桥梁角色",
+    "focusAreas": [
+      "数字银行",
+      "平台简化",
+      "数据",
+      "自动化与风险治理"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.anz.com.au/careers/"
+  },
+  {
+    "id": "westpac",
+    "name": "Westpac",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "industry": "银行金融",
+    "recommendedRoles": [
+      "Product Analyst",
+      "PMO Analyst",
+      "Data Business Analyst",
+      "Change Analyst"
+    ],
+    "fitReason": "UNITE 等转型议程带来治理、流程、数据与客户体验交叉机会",
+    "focusAreas": [
+      "UNITE 转型",
+      "数据/数字/AI",
+      "技术与数据现代化"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.westpac.com.au/about-westpac/careers/"
+  },
+  {
+    "id": "macquarie-group",
+    "name": "Macquarie Group",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "银行金融",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Product Analyst",
+      "Technology Graduate",
+      "Project Coordinator"
+    ],
+    "fitReason": "项目制文化与多业务线适合经济学、IT 和交付能力组合",
+    "focusAreas": [
+      "云",
+      "数据",
+      "数字平台",
+      "风险与运营转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.macquarie.com/au/en/careers.html"
+  },
+  {
+    "id": "suncorp",
+    "name": "Suncorp",
+    "cities": [
+      "Brisbane",
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "保险",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Digital Product Analyst",
+      "Test Analyst",
+      "Transformation Analyst"
+    ],
+    "fitReason": "保险流程、数字渠道与韧性项目适合测试到产品/BA转型",
+    "focusAreas": [
+      "数字保险",
+      "客户平台",
+      "数据",
+      "运营韧性"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.suncorpgroup.com.au/careers"
+  },
+  {
+    "id": "iag",
+    "name": "IAG",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "industry": "保险",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Technology Risk Analyst",
+      "PMO Analyst"
+    ],
+    "fitReason": "复杂保险产品和理赔流程需要产品、流程、风险与技术协作",
+    "focusAreas": [
+      "数字理赔",
+      "数据与AI",
+      "客户体验",
+      "风险控制"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.iag.com.au/careers"
+  },
+  {
+    "id": "qbe",
+    "name": "QBE",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "industry": "保险",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Transformation Analyst",
+      "Product Operations",
+      "Test Analyst"
+    ],
+    "fitReason": "全球保险环境提供企业系统、运营改进与跨区域项目经验",
+    "focusAreas": [
+      "数字化",
+      "数据分析",
+      "核心系统",
+      "风险与运营效率"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.qbe.com/careers"
+  },
+  {
+    "id": "medibank",
+    "name": "Medibank",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "保险/健康",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "Delivery Coordinator",
+      "Test Analyst"
+    ],
+    "fitReason": "Melbourne 主场；健康服务、保险和数字体验交叉度高",
+    "focusAreas": [
+      "数字健康",
+      "客户体验",
+      "数据安全",
+      "平台与服务转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.medibank.com.au/"
+  },
+  {
+    "id": "bupa-australia",
+    "name": "Bupa Australia",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "industry": "保险/健康",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "PMO Analyst",
+      "Service Designer"
+    ],
+    "fitReason": "医疗、保险、护理多业务场景适合流程与产品能力",
+    "focusAreas": [
+      "数字健康",
+      "客户服务",
+      "数据",
+      "运营转型"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://careers.bupa.com.au/"
+  },
+  {
+    "id": "rea-group",
+    "name": "REA Group",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "数字平台",
+    "recommendedRoles": [
+      "Associate Product Manager",
+      "Product Analyst",
+      "Experimentation Analyst",
+      "Delivery Coordinator"
+    ],
+    "fitReason": "Melbourne 产品公司；适合经济学洞察、产品开发和数据化决策",
+    "focusAreas": [
+      "AI 搜索",
+      "推荐",
+      "数据产品",
+      "消费者与客户平台"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.rea-group.com/careers/"
+  },
+  {
+    "id": "seek",
+    "name": "SEEK",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "数字平台",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Product Operations",
+      "Data Analyst"
+    ],
+    "fitReason": "本地产品环境适合把研究、实验和技术交付连接起来",
+    "focusAreas": [
+      "AI 匹配",
+      "市场平台",
+      "数据与产品体验"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.seek.com.au/about/careers/"
+  },
+  {
+    "id": "carsales",
+    "name": "Carsales",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "数字平台",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "QA Analyst",
+      "Delivery Analyst"
+    ],
+    "fitReason": "成熟 marketplace，产品、质量、数据与商业化都有切入口",
+    "focusAreas": [
+      "数字市场",
+      "AI/数据",
+      "支付与客户体验"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.carsales.com.au/"
+  },
+  {
+    "id": "myob",
+    "name": "MYOB",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "Enterprise Tech",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Quality Analyst",
+      "Implementation Analyst"
+    ],
+    "fitReason": "中小企业软件贴合经济学与IT，产品和实施路径清晰",
+    "focusAreas": [
+      "云会计",
+      "AI辅助",
+      "平台现代化",
+      "小企业产品"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.myob.com/"
+  },
+  {
+    "id": "xero",
+    "name": "Xero",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "industry": "Enterprise Tech",
+    "recommendedRoles": [
+      "Product Operations",
+      "Business Analyst",
+      "Quality Engineer",
+      "Delivery Analyst"
+    ],
+    "fitReason": "SaaS 产品环境强化产品运营、平台、质量与数据能力",
+    "focusAreas": [
+      "云平台",
+      "AI",
+      "支付",
+      "生态与小企业数字化"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.xero.com/au/about/careers/"
+  },
+  {
+    "id": "atlassian",
+    "name": "Atlassian",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "Enterprise Tech",
+    "recommendedRoles": [
+      "Associate Product Manager",
+      "Product Operations",
+      "Program Coordinator",
+      "Trust Analyst"
+    ],
+    "fitReason": "世界级 SaaS 产品实践；竞争高但对产品与项目证据价值大",
+    "focusAreas": [
+      "云平台",
+      "AI协作",
+      "企业产品",
+      "安全与信任"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.atlassian.com/company/careers"
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "Enterprise Tech",
+    "recommendedRoles": [
+      "Product Operations",
+      "Product Analyst",
+      "Program Coordinator",
+      "QA Analyst"
+    ],
+    "fitReason": "产品驱动和全球规模，适合用作品集证明端到端产品思维",
+    "focusAreas": [
+      "AI设计",
+      "协作平台",
+      "国际增长",
+      "信任与安全"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.canva.com/careers/"
+  },
+  {
+    "id": "technologyone",
+    "name": "TechnologyOne",
+    "cities": [
+      "Brisbane",
+      "Melbourne",
+      "Sydney",
+      "Perth"
+    ],
+    "industry": "Enterprise Tech",
+    "recommendedRoles": [
+      "Implementation Consultant",
+      "Business Analyst",
+      "Product Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "澳洲企业软件与实施场景，PMP、测试和业务分析可直接转化",
+    "focusAreas": [
+      "SaaS ERP",
+      "政府/教育数字化",
+      "实施与客户成功"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.technology1.com/company/careers"
+  },
+  {
+    "id": "wisetech-global",
+    "name": "WiseTech Global",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "Enterprise Tech",
+    "recommendedRoles": [
+      "Product Specialist",
+      "Business Analyst",
+      "Quality Analyst",
+      "Implementation Analyst"
+    ],
+    "fitReason": "复杂物流软件需要领域学习、产品拆解和质量能力",
+    "focusAreas": [
+      "全球物流平台",
+      "自动化",
+      "数据与产品整合"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.wisetechglobal.com/careers/"
+  },
+  {
+    "id": "microsoft-australia",
+    "name": "Microsoft Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Cloud Solution Analyst",
+      "Customer Success",
+      "Technology Consultant",
+      "Program Coordinator"
+    ],
+    "fitReason": "Cloud/AI 兴趣与商业沟通结合，可走解决方案、采用与客户成功",
+    "focusAreas": [
+      "Azure",
+      "Copilot/AI",
+      "云迁移",
+      "安全与行业方案"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.microsoft.com/"
+  },
+  {
+    "id": "amazon-web-services",
+    "name": "Amazon Web Services",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Cloud Support Associate",
+      "Partner Analyst",
+      "Program Manager",
+      "Solutions Architect - early career"
+    ],
+    "fitReason": "云规模与客户转型场景丰富，适合技术基础+商业表达",
+    "focusAreas": [
+      "云采用",
+      "GenAI",
+      "数据",
+      "安全与合作伙伴生态"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.amazon.jobs/en/teams/amazon-web-services"
+  },
+  {
+    "id": "google-australia",
+    "name": "Google Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Cloud Consultant",
+      "Program Manager",
+      "Product Operations",
+      "Customer Solutions"
+    ],
+    "fitReason": "stretch target；经济学、产品与技术结合适合项目和客户方案",
+    "focusAreas": [
+      "Google Cloud",
+      "AI",
+      "广告/平台",
+      "数据与安全"
+    ],
+    "priority": "P3",
+    "careerUrl": "https://www.google.com/about/careers/applications/locations/australia/"
+  },
+  {
+    "id": "salesforce-australia",
+    "name": "Salesforce Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Associate Solution Engineer",
+      "Business Analyst",
+      "Customer Success",
+      "Program Coordinator"
+    ],
+    "fitReason": "企业客户转型与CRM实施适合业务分析、产品与项目协调",
+    "focusAreas": [
+      "AI CRM",
+      "Data Cloud",
+      "客户成功与行业数字化"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.salesforce.com/en/locations/apac/australia/"
+  },
+  {
+    "id": "servicenow-australia",
+    "name": "ServiceNow Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Associate Consultant",
+      "Business Process Analyst",
+      "Customer Success",
+      "Project Coordinator"
+    ],
+    "fitReason": "工作流/流程平台天然匹配 BA、转型与实施路线",
+    "focusAreas": [
+      "AI工作流",
+      "企业服务管理",
+      "自动化与客户价值"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.servicenow.com/"
+  },
+  {
+    "id": "oracle-australia",
+    "name": "Oracle Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Functional Consultant",
+      "Cloud Analyst",
+      "Implementation Consultant",
+      "Project Coordinator"
+    ],
+    "fitReason": "大型企业系统与行业客户覆盖广，利于从协调走实施/咨询",
+    "focusAreas": [
+      "OCI",
+      "ERP/HCM",
+      "数据库",
+      "AI与行业云"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.oracle.com/au/careers/"
+  },
+  {
+    "id": "sap-australia",
+    "name": "SAP Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Associate Consultant",
+      "Business Process Consultant",
+      "Customer Success",
+      "PMO Analyst"
+    ],
+    "fitReason": "企业流程与转型强相关，经济学+IT+PMP形成清晰叙事",
+    "focusAreas": [
+      "云ERP",
+      "Business AI",
+      "数据与企业流程转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://jobs.sap.com/"
+  },
+  {
+    "id": "ibm-australia",
+    "name": "IBM Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Cloud/Enterprise Tech",
+    "recommendedRoles": [
+      "Technology Consultant",
+      "Business Transformation Consultant",
+      "Project Coordinator",
+      "Test Analyst"
+    ],
+    "fitReason": "咨询+技术平台双路径，适合复合背景与行业转型",
+    "focusAreas": [
+      "混合云",
+      "AI",
+      "自动化",
+      "咨询与网络安全"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.ibm.com/careers/au-en/"
+  },
+  {
+    "id": "telstra",
+    "name": "Telstra",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Telco",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Technology Consultant",
+      "Delivery Analyst"
+    ],
+    "fitReason": "Melbourne 核心雇主；产品、网络、AI、云与转型岗位跨度大",
+    "focusAreas": [
+      "AI",
+      "自动化",
+      "可编程网络",
+      "网络安全",
+      "数字产品"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.telstra.com.au/careers"
+  },
+  {
+    "id": "optus",
+    "name": "Optus",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Telco",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "PMO Analyst",
+      "Service Delivery Analyst"
+    ],
+    "fitReason": "大型客户平台、网络与运营转型需要跨职能交付",
+    "focusAreas": [
+      "网络",
+      "客户体验",
+      "数字渠道",
+      "数据与安全"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.optus.com.au/about/careers"
+  },
+  {
+    "id": "tpg-telecom",
+    "name": "TPG Telecom",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Telco",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Transformation Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "平台整合与客户/网络项目适合流程、质量和交付经验",
+    "focusAreas": [
+      "网络",
+      "数字体验",
+      "平台整合",
+      "运营效率"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.tpgtelecom.com.au/careers"
+  },
+  {
+    "id": "accenture-australia",
+    "name": "Accenture Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "咨询",
+    "recommendedRoles": [
+      "Technology Analyst",
+      "Business Transformation Analyst",
+      "Cloud Analyst",
+      "PMO Analyst"
+    ],
+    "fitReason": "多行业项目能快速累积转型案例；背景与入门咨询路径匹配",
+    "focusAreas": [
+      "Cloud",
+      "Data & AI",
+      "Cyber",
+      "SAP",
+      "行业转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.accenture.com/au-en/careers"
+  },
+  {
+    "id": "deloitte-australia",
+    "name": "Deloitte Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "咨询",
+    "recommendedRoles": [
+      "Technology Consultant",
+      "Transformation Analyst",
+      "Project Analyst",
+      "Risk Analyst"
+    ],
+    "fitReason": "技术、经济与治理能力可在咨询项目中组合",
+    "focusAreas": [
+      "Engineering/AI/Data",
+      "ERP",
+      "数字政府",
+      "风险与转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.deloitte.com/au/en/careers.html"
+  },
+  {
+    "id": "ey-australia",
+    "name": "EY Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "咨询",
+    "recommendedRoles": [
+      "Technology Consultant",
+      "Business Transformation Consultant",
+      "PMO Analyst",
+      "Technology Risk"
+    ],
+    "fitReason": "适合从测试/协调转向咨询、风险或大型实施",
+    "focusAreas": [
+      "AI/Data",
+      "Cloud",
+      "Cyber",
+      "Technology Risk",
+      "Transformation"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.ey.com/en_au/careers"
+  },
+  {
+    "id": "kpmg-australia",
+    "name": "KPMG Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "咨询",
+    "recommendedRoles": [
+      "Technology Advisory",
+      "Transformation Analyst",
+      "Business Analyst",
+      "PMO Analyst"
+    ],
+    "fitReason": "政府、金融与基础设施客户覆盖广，适合结构化交付",
+    "focusAreas": [
+      "Digital transformation",
+      "AI/Data",
+      "Cyber",
+      "ERP",
+      "政府咨询"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://kpmg.com/au/en/home/careers.html"
+  },
+  {
+    "id": "pwc-australia",
+    "name": "PwC Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "咨询",
+    "recommendedRoles": [
+      "Technology Consultant",
+      "Business Analyst",
+      "Change Analyst",
+      "Cyber PMO"
+    ],
+    "fitReason": "行业转型、云与风险项目提供复合型入口",
+    "focusAreas": [
+      "Cloud/Digital",
+      "AI/Data",
+      "Cyber",
+      "运营与监管转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.pwc.com.au/careers.html"
+  },
+  {
+    "id": "capgemini-australia",
+    "name": "Capgemini Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "咨询",
+    "recommendedRoles": [
+      "Graduate Consultant",
+      "Business Analyst",
+      "Test Analyst",
+      "Cloud Analyst"
+    ],
+    "fitReason": "实施和质量路径与现有经历衔接直接",
+    "focusAreas": [
+      "云",
+      "数据AI",
+      "ERP",
+      "质量工程",
+      "企业转型"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.capgemini.com/au-en/careers/"
+  },
+  {
+    "id": "infosys-australia",
+    "name": "Infosys Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "咨询",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Test Analyst",
+      "Project Coordinator",
+      "Functional Consultant"
+    ],
+    "fitReason": "可把测试与协调经验转成大型企业交付资历",
+    "focusAreas": [
+      "云",
+      "数字体验",
+      "AI",
+      "ERP与应用现代化"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.infosys.com/careers/"
+  },
+  {
+    "id": "bhp",
+    "name": "BHP",
+    "cities": [
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "矿业资源",
+    "recommendedRoles": [
+      "Digital Analyst",
+      "Technology Business Analyst",
+      "PMO Analyst",
+      "Innovation Analyst"
+    ],
+    "fitReason": "资源业数字化规模大；安全、运营与技术交叉适合转型路线",
+    "focusAreas": [
+      "数字运营",
+      "自动化",
+      "数据AI",
+      "OT/cyber与脱碳"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.bhp.com/"
+  },
+  {
+    "id": "rio-tinto",
+    "name": "Rio Tinto",
+    "cities": [
+      "Perth",
+      "Brisbane",
+      "Melbourne"
+    ],
+    "industry": "矿业资源",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "Project Controls Analyst",
+      "Data Analyst"
+    ],
+    "fitReason": "Perth/Brisbane 强；官方职业方向明确覆盖数据科学与内部咨询",
+    "focusAreas": [
+      "自动化运营",
+      "数据科学",
+      "数字",
+      "PACE咨询与脱碳"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.riotinto.com/careers"
+  },
+  {
+    "id": "fortescue",
+    "name": "Fortescue",
+    "cities": [
+      "Perth",
+      "Brisbane"
+    ],
+    "industry": "矿业资源",
+    "recommendedRoles": [
+      "Digital & Technology Analyst",
+      "AI Adoption Analyst",
+      "PMO Analyst",
+      "Business Analyst"
+    ],
+    "fitReason": "公开人才社区聚焦 Digital/Data/AI/Cyber/Tech，方向高度吻合",
+    "focusAreas": [
+      "自主运营",
+      "AI系统",
+      "数据平台",
+      "OT网络安全",
+      "脱碳"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.fortescue.com/en/jobs"
+  },
+  {
+    "id": "south32",
+    "name": "South32",
+    "cities": [
+      "Perth"
+    ],
+    "industry": "矿业资源",
+    "recommendedRoles": [
+      "Technology Analyst",
+      "Business Analyst",
+      "Project Coordinator",
+      "Data Analyst"
+    ],
+    "fitReason": "企业与运营科技并存，适合建立资源行业领域能力",
+    "focusAreas": [
+      "数字运营",
+      "数据",
+      "企业系统",
+      "运营改进"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://careers.south32.net/"
+  },
+  {
+    "id": "newmont-australia",
+    "name": "Newmont Australia",
+    "cities": [
+      "Perth"
+    ],
+    "industry": "矿业资源",
+    "recommendedRoles": [
+      "IT Business Analyst",
+      "Project Coordinator",
+      "Systems Analyst",
+      "Technology Support"
+    ],
+    "fitReason": "全球矿业系统与现场运营提供业务技术桥梁岗位",
+    "focusAreas": [
+      "运营技术",
+      "企业系统",
+      "数据",
+      "安全与资产效率"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://jobs.newmont.com/"
+  },
+  {
+    "id": "woodside-energy",
+    "name": "Woodside Energy",
+    "cities": [
+      "Perth"
+    ],
+    "industry": "能源",
+    "recommendedRoles": [
+      "Digital Analyst",
+      "Business Analyst",
+      "Project Controls",
+      "Transformation Analyst"
+    ],
+    "fitReason": "官方明确 Digital 团队；项目、技术与商业轮岗场景丰富",
+    "focusAreas": [
+      "数字化运营",
+      "数据",
+      "项目",
+      "能源转型与商业系统"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.woodside.com/careers/find-your-fit"
+  },
+  {
+    "id": "santos",
+    "name": "Santos",
+    "cities": [
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "能源",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Digital Technology Analyst",
+      "PMO Analyst",
+      "Systems Analyst"
+    ],
+    "fitReason": "资产运营与企业系统结合，适合流程和项目治理",
+    "focusAreas": [
+      "数字运营",
+      "数据",
+      "资产管理",
+      "网络安全与项目交付"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.santos.com/careers/"
+  },
+  {
+    "id": "agl",
+    "name": "AGL",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "能源公用事业",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "Transformation Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "Melbourne 优势；零售转型、Salesforce 与客户平台和经历高度相关",
+    "focusAreas": [
+      "零售转型",
+      "数字客户",
+      "AI自动化",
+      "Salesforce",
+      "能源转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.agl.com.au/about-agl/careers"
+  },
+  {
+    "id": "origin-energy",
+    "name": "Origin Energy",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "industry": "能源公用事业",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "PMO Analyst",
+      "Digital Delivery"
+    ],
+    "fitReason": "客户、零售能源与转型场景可结合经济、产品和IT",
+    "focusAreas": [
+      "数字客户",
+      "能源转型",
+      "数据",
+      "运营与平台"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.originenergy.com.au/about/careers/"
+  },
+  {
+    "id": "ausnet",
+    "name": "AusNet",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "能源公用事业",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Technology Project Coordinator",
+      "Data Analyst",
+      "Change Analyst"
+    ],
+    "fitReason": "Victoria 电网转型与基础设施项目适合治理和业务分析",
+    "focusAreas": [
+      "电网现代化",
+      "数据",
+      "资产系统",
+      "网络安全与能源转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.ausnetservices.com.au/about-us/careers"
+  },
+  {
+    "id": "energyaustralia",
+    "name": "EnergyAustralia",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "能源公用事业",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "Transformation Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "Melbourne 零售能源和数字渠道提供跨职能路径",
+    "focusAreas": [
+      "客户数字化",
+      "能源转型",
+      "数据与运营效率"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://careers.energyaustralia.com.au/"
+  },
+  {
+    "id": "transurban",
+    "name": "Transurban",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "industry": "基础设施",
+    "recommendedRoles": [
+      "Technology Business Analyst",
+      "Digital Product Analyst",
+      "PMO Analyst",
+      "Data Analyst"
+    ],
+    "fitReason": "Melbourne 总部；智能交通、支付与大型项目兼具",
+    "focusAreas": [
+      "智能交通",
+      "数据",
+      "数字客户",
+      "运营技术与项目"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.transurban.com/"
+  },
+  {
+    "id": "csl",
+    "name": "CSL",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "医疗科技",
+    "recommendedRoles": [
+      "IT Business Analyst",
+      "Digital Transformation Analyst",
+      "PMO Analyst",
+      "Validation/Test Analyst"
+    ],
+    "fitReason": "Melbourne 全球生命科学企业；质量、受监管交付与IT结合",
+    "focusAreas": [
+      "数字化制造",
+      "数据",
+      "企业系统",
+      "AI与质量合规"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.csl.com/careers"
+  },
+  {
+    "id": "ramsay-health-care",
+    "name": "Ramsay Health Care",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "医疗健康",
+    "recommendedRoles": [
+      "Digital Health Analyst",
+      "Business Analyst",
+      "PMO Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "医院流程与数字健康项目需要变革、测试与利益相关者管理",
+    "focusAreas": [
+      "数字医疗",
+      "患者体验",
+      "临床系统",
+      "数据与网络安全"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.ramsaycareers.com.au/"
+  },
+  {
+    "id": "telstra-health",
+    "name": "Telstra Health",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "医疗科技",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Implementation Consultant",
+      "Business Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "数字健康产品与实施直接结合产品、测试和协调经验",
+    "focusAreas": [
+      "临床软件",
+      "互操作",
+      "数据",
+      "虚拟护理与实施"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.telstrahealth.com/careers/"
+  },
+  {
+    "id": "australian-digital-health-agency",
+    "name": "Australian Digital Health Agency",
+    "cities": [
+      "Sydney",
+      "Brisbane",
+      "Melbourne"
+    ],
+    "industry": "政府数字化/健康",
+    "recommendedRoles": [
+      "Digital Business Analyst",
+      "Project Officer",
+      "Product Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "公共价值、数字健康与治理结合，适合产品/项目转型目标",
+    "focusAreas": [
+      "数字健康基础设施",
+      "互操作",
+      "My Health Record",
+      "数据治理"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.digitalhealth.gov.au/about-us/careers"
+  },
+  {
+    "id": "digital-transformation-agency",
+    "name": "Digital Transformation Agency",
+    "cities": [
+      "Sydney",
+      "Canberra",
+      "Melbourne"
+    ],
+    "industry": "政府数字化",
+    "recommendedRoles": [
+      "Digital Program Officer",
+      "ICT Investment Analyst",
+      "Business Analyst",
+      "Policy/Project Officer"
+    ],
+    "fitReason": "数字投资、政策与交付交叉，经济学+IT+PMP辨识度高",
+    "focusAreas": [
+      "政府数字战略",
+      "ICT投资",
+      "AI政策",
+      "采购与服务标准"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.dta.gov.au/join-our-team"
+  },
+  {
+    "id": "services-australia",
+    "name": "Services Australia",
+    "cities": [
+      "Brisbane",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "industry": "政府数字化",
+    "recommendedRoles": [
+      "Technology Graduate",
+      "Business Analyst",
+      "Project Officer",
+      "Test Analyst"
+    ],
+    "fitReason": "全国级数字服务与 myGov 生态，规模、治理和公共影响兼具",
+    "focusAreas": [
+      "myGov",
+      "10年数字投资",
+      "平台韧性",
+      "数据与服务现代化"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.servicesaustralia.gov.au/careers"
+  },
+  {
+    "id": "ato",
+    "name": "ATO",
+    "cities": [
+      "Brisbane",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "industry": "政府数字化",
+    "recommendedRoles": [
+      "IT Business Analyst",
+      "Project Officer",
+      "Test Analyst",
+      "Data Analyst"
+    ],
+    "fitReason": "税务与数字服务天然连接经济学、数据与IT",
+    "focusAreas": [
+      "数字税务",
+      "数据分析",
+      "身份",
+      "安全",
+      "平台现代化"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.ato.gov.au/about-ato/careers"
+  },
+  {
+    "id": "victorian-government-digital-jobs",
+    "name": "Victorian Government Digital Jobs",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "政府数字化",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Project Officer",
+      "Product Manager",
+      "Service Designer"
+    ],
+    "fitReason": "本地且行业覆盖广，可用公共服务成果建立转型经验",
+    "focusAreas": [
+      "数字服务",
+      "平台",
+      "数据",
+      "网络安全与服务设计"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.careers.vic.gov.au/"
+  },
+  {
+    "id": "queensland-government-smart-jobs",
+    "name": "Queensland Government Smart Jobs",
+    "cities": [
+      "Brisbane"
+    ],
+    "industry": "政府数字化",
+    "recommendedRoles": [
+      "Business Analyst",
+      "Project Officer",
+      "Digital Delivery",
+      "Test Analyst"
+    ],
+    "fitReason": "Brisbane 公共数字化入口，适合项目与业务分析",
+    "focusAreas": [
+      "数字服务",
+      "健康/交通系统",
+      "数据与网络安全"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://smartjobs.qld.gov.au/"
+  },
+  {
+    "id": "wa-government-jobs",
+    "name": "WA Government Jobs",
+    "cities": [
+      "Perth"
+    ],
+    "industry": "政府数字化",
+    "recommendedRoles": [
+      "ICT Business Analyst",
+      "Project Officer",
+      "Systems Analyst",
+      "PMO Analyst"
+    ],
+    "fitReason": "Perth 路线除资源业外的重要稳定补充",
+    "focusAreas": [
+      "数字政府",
+      "健康",
+      "交通",
+      "数据与基础设施"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://search.jobs.wa.gov.au/"
+  },
+  {
+    "id": "airservices-australia",
+    "name": "Airservices Australia",
+    "cities": [
+      "Brisbane",
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "Critical Infrastructure",
+    "recommendedRoles": [
+      "Technology Business Analyst",
+      "Project Coordinator",
+      "Test Analyst",
+      "Safety Systems Analyst"
+    ],
+    "fitReason": "安全关键系统能放大测试、治理和项目能力",
+    "focusAreas": [
+      "航空数字化",
+      "空管系统",
+      "数据",
+      "网络安全与项目交付"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.airservicesaustralia.com/"
+  },
+  {
+    "id": "australiansuper",
+    "name": "AustralianSuper",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "金融/养老金",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "Transformation Analyst",
+      "Technology Risk"
+    ],
+    "fitReason": "Melbourne 大型资金管理机构，金融、产品与技术交叉",
+    "focusAreas": [
+      "数字会员体验",
+      "数据",
+      "投资平台",
+      "风险与运营转型"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers.australiansuper.com/"
+  },
+  {
+    "id": "vanguard-australia",
+    "name": "Vanguard Australia",
+    "cities": [
+      "Melbourne"
+    ],
+    "industry": "金融/养老金",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Technology Analyst",
+      "Project Coordinator"
+    ],
+    "fitReason": "投资产品、运营与技术兼具，经济学背景形成优势",
+    "focusAreas": [
+      "数字投资",
+      "数据",
+      "产品",
+      "运营与风险"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.vanguardjobs.com/"
+  },
+  {
+    "id": "lendlease",
+    "name": "Lendlease",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "地产/基础设施",
+    "recommendedRoles": [
+      "Digital Transformation Analyst",
+      "Business Analyst",
+      "PMO Analyst",
+      "Product Analyst"
+    ],
+    "fitReason": "大型项目治理、数字建筑与业务转型适合PMP路线",
+    "focusAreas": [
+      "数字工程",
+      "数据",
+      "项目平台",
+      "可持续与企业转型"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.lendlease.com/au/careers/"
+  },
+  {
+    "id": "qantas",
+    "name": "Qantas",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "industry": "航空",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "Technology Delivery",
+      "Test Analyst"
+    ],
+    "fitReason": "高流量数字产品与复杂运营系统需要产品/质量/交付",
+    "focusAreas": [
+      "数字客户",
+      "运营优化",
+      "数据AI",
+      "云与网络安全"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://careers.qantas.com/"
+  },
+  {
+    "id": "coles-group",
+    "name": "Coles Group",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "零售科技",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "Technology Project Coordinator",
+      "Test Analyst"
+    ],
+    "fitReason": "Melbourne 大型零售科技场景，客户、供应链与数据规模大",
+    "focusAreas": [
+      "电商",
+      "供应链自动化",
+      "数据AI",
+      "支付与客户平台"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://colescareers.com.au/"
+  },
+  {
+    "id": "woolworths-group",
+    "name": "Woolworths Group",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "industry": "零售科技",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Business Analyst",
+      "Transformation Analyst",
+      "Technology Risk"
+    ],
+    "fitReason": "数字零售和供应链平台规模大，可切入产品与转型",
+    "focusAreas": [
+      "电商",
+      "供应链",
+      "数据AI",
+      "云与零售媒体"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.wowcareers.com.au/"
+  },
+  {
+    "id": "australia-post",
+    "name": "Australia Post",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "物流/公共企业",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Business Analyst",
+      "PMO Analyst",
+      "Test Analyst"
+    ],
+    "fitReason": "Melbourne 总部；物流、客户平台和公共服务交叉",
+    "focusAreas": [
+      "网络现代化",
+      "数字客户",
+      "数据",
+      "自动化与网络安全"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://jobs.auspost.com.au/"
+  },
+  {
+    "id": "defence-australia-aps",
+    "name": "Defence Australia / APS",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Defence/Critical Infrastructure",
+    "recommendedRoles": [
+      "ICT Project Officer",
+      "Business Analyst",
+      "Test & Evaluation",
+      "Cyber Project Officer"
+    ],
+    "fitReason": "大规模项目、治理与关键系统适合PMP及质量背景；注意公民/许可要求",
+    "focusAreas": [
+      "数字能力",
+      "ICT采购",
+      "网络安全",
+      "项目治理与关键系统"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.defence.gov.au/jobs-careers"
+  },
+  {
+    "id": "bae-systems-australia",
+    "name": "BAE Systems Australia",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Defence/Critical Infrastructure",
+    "recommendedRoles": [
+      "Project Coordinator",
+      "Business Analyst",
+      "Test Analyst",
+      "Systems Analyst"
+    ],
+    "fitReason": "系统工程与受控交付环境重视测试、文档和项目治理",
+    "focusAreas": [
+      "数字工程",
+      "系统集成",
+      "网络安全与项目交付"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://careers.au.baesystems.com/"
+  },
+  {
+    "id": "thales-australia",
+    "name": "Thales Australia",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "Defence/Critical Infrastructure",
+    "recommendedRoles": [
+      "Project Coordinator",
+      "Business Analyst",
+      "IVVQ/Test Analyst",
+      "Systems Analyst"
+    ],
+    "fitReason": "交通、国防和关键系统覆盖，测试到项目路线连贯",
+    "focusAreas": [
+      "数字系统",
+      "网络安全",
+      "交通",
+      "国防与系统验证"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://careers.thalesgroup.com/global/en/australia"
+  },
+  {
+    "id": "lockheed-martin-australia",
+    "name": "Lockheed Martin Australia",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "industry": "Defence/Critical Infrastructure",
+    "recommendedRoles": [
+      "Project Coordinator",
+      "Systems Analyst",
+      "Test Analyst",
+      "PMO Analyst"
+    ],
+    "fitReason": "复杂项目治理与验证能力匹配；注意安全许可",
+    "focusAreas": [
+      "任务系统",
+      "网络安全",
+      "数字工程与项目交付"
+    ],
+    "priority": "P3",
+    "careerUrl": "https://www.lockheedmartin.com/en-au/careers.html"
+  },
+  {
+    "id": "byd-australia",
+    "name": "BYD Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "新能源与智能出行",
+    "recommendedRoles": [
+      "Product Operations",
+      "Channel Operations Analyst",
+      "Energy Storage Project Coordinator",
+      "Business Analyst"
+    ],
+    "fitReason": "澳洲业务处于本地化扩张期；汽车、储能、渠道与客户系统需要技术和商业之间的连接者",
+    "focusAreas": [
+      "新能源汽车",
+      "储能",
+      "渠道建设",
+      "售后系统与本地运营"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://careers-overseas.byd.com/"
+  },
+  {
+    "id": "eagers-automotive-ev-dealer-group",
+    "name": "Eagers Automotive / EV Dealer Group",
+    "cities": [
+      "Brisbane",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "industry": "新能源与智能出行",
+    "recommendedRoles": [
+      "Digital Product Analyst",
+      "Dealer Systems Analyst",
+      "Project Coordinator",
+      "Customer Experience Analyst"
+    ],
+    "fitReason": "BYD 等品牌的澳洲零售与服务网络合作方；更贴近本地渠道、CRM和售后数字化",
+    "focusAreas": [
+      "经销网络",
+      "数字零售",
+      "CRM",
+      "售后服务与新能源品牌扩张"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.eagersautomotive.com.au/careers/"
+  },
+  {
+    "id": "tesla-australia",
+    "name": "Tesla Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "industry": "新能源与智能出行",
+    "recommendedRoles": [
+      "Operations Analyst",
+      "Project Coordinator",
+      "Energy Operations",
+      "Customer Experience Analyst"
+    ],
+    "fitReason": "车辆、充电与储能业务同时存在，适合运营、产品和项目交付路线",
+    "focusAreas": [
+      "电动车",
+      "充电网络",
+      "Megapack储能",
+      "服务运营与AI"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.tesla.com/en_AU/careers"
+  },
+  {
+    "id": "polestar-australia",
+    "name": "Polestar Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "新能源与智能出行",
+    "recommendedRoles": [
+      "Commercial Operations",
+      "Customer Experience",
+      "Digital Operations",
+      "Project Coordinator"
+    ],
+    "fitReason": "新品牌本地增长通常需要精干的跨职能团队，适合产品运营与商业协调",
+    "focusAreas": [
+      "电动汽车",
+      "数字零售",
+      "品牌增长",
+      "客户体验与充电生态"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.polestar.com/global/careers/"
+  },
+  {
+    "id": "zeekr-australia",
+    "name": "Zeekr Australia",
+    "cities": [
+      "Sydney",
+      "Melbourne"
+    ],
+    "industry": "新能源与智能出行",
+    "recommendedRoles": [
+      "Product Operations",
+      "Business Operations",
+      "Digital Customer Experience",
+      "Project Coordinator"
+    ],
+    "fitReason": "智能汽车新进入者，本地市场建立阶段更重视渠道、产品落地和总部协同",
+    "focusAreas": [
+      "智能电动车",
+      "数字座舱",
+      "渠道拓展",
+      "客户体验与本地化"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.zeekrgroup.com/en/join-us"
+  },
+  {
+    "id": "gwm-australia-and-new-zealand",
+    "name": "GWM Australia & New Zealand",
+    "cities": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "industry": "新能源与智能出行",
+    "recommendedRoles": [
+      "Product Planning Analyst",
+      "Business Analyst",
+      "Dealer Systems",
+      "Project Coordinator"
+    ],
+    "fitReason": "成熟本地团队叠加新能源车型扩张，可连接产品规划、渠道与系统交付",
+    "focusAreas": [
+      "混动/电动车",
+      "产品规划",
+      "经销网络",
+      "售后与数字客户"
+    ],
+    "priority": "P2",
+    "careerUrl": "https://www.gwm.com.au/careers"
+  },
+  {
+    "id": "chargefox",
+    "name": "Chargefox",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "industry": "新能源与智能出行",
+    "recommendedRoles": [
+      "Product Analyst",
+      "Operations Analyst",
+      "Implementation Coordinator",
+      "Business Analyst"
+    ],
+    "fitReason": "充电网络平台比整车厂更接近软件、支付、合作伙伴与运营数据，和IT背景匹配",
+    "focusAreas": [
+      "EV充电平台",
+      "漫游与支付",
+      "网络运营",
+      "车队及合作伙伴集成"
+    ],
+    "priority": "P1",
+    "careerUrl": "https://www.chargefox.com/careers"
+  }
+]
