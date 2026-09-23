@@ -26,4 +26,4 @@ The original standalone file remains at `../australia-tech-career-targets.html`.
 
 ## Preserved capabilities
 
-See `FUNCTIONS.md` for the complete mapping from the original 27 functions to the new modules and pages.
+See `FUNCTIONS.md` for the complete mapping from the original functions to the Vue modules and pages.
